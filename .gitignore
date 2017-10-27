@@ -5,3 +5,4 @@ Shortnr.Web*/bin
 
 *.user
 *.suo
+.vs/*
